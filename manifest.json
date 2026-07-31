@@ -1,0 +1,26 @@
+{
+  "name": "Rivendell - Как создать первый доход",
+  "short_name": "Rivendell",
+  "description": "Путеводитель для новых партнёров команды Астаховых",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#10201b",
+  "theme_color": "#24463a",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
